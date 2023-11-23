@@ -11,7 +11,8 @@
             "Chocolate Syrup",
             "Peppermint Sprinkle",
             "Vanilla Base"
-        ]
+        ],
+        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 350,
@@ -20,8 +21,8 @@
             "Peach Syrup",
             "Mango Chunks",
             "Vanilla Base"
-        ]
-
+        ],
+        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/peach-mango.svg"
     }, 
     {
         "name": "Strawberry Sprinkle",
@@ -31,8 +32,29 @@
             "Strawberry Syrup",
             "Some Sprinkles",
             "Vanilla Base"
-        ]
-        
-    }
-    ]
+        ],
+        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/strawberry-sprinkle.svg"
+    },
+    {
+            "name": "Chocolate Fudge",
+            "calories": 350,
+            "type": "gelato", 
+            "ingredients": [
+                "Chocolate Fudge Sauce",
+                "Milk",
+                "Cocoa Powder"
+            ],
+        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/ice-cream-xtra1.svg"
+    },
+    {
+        "name": "Mango Delight",
+        "calories": 370,
+        "type": "sorbet",
+        "ingredients": [
+            "Mango",
+            "Milk",
+            "Mango Chunks"
+        ],
+        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/ice-cream-xtra2.svg"
+    }]
 }
