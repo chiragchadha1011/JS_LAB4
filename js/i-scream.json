@@ -12,7 +12,7 @@
             "Peppermint Sprinkle",
             "Vanilla Base"
         ],
-        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/chocolate-mint.svg"
+        "image": "https://chiragchadha1011.github.io/JS_LAB4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 350,
@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/peach-mango.svg"
+        "image": "https://chiragchadha1011.github.io/JS_LAB4/images/peach-mango.svg"
     }, 
     {
         "name": "Strawberry Sprinkle",
@@ -33,7 +33,7 @@
             "Some Sprinkles",
             "Vanilla Base"
         ],
-        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/strawberry-sprinkle.svg"
+        "image": "https://chiragchadha1011.github.io/JS_LAB4/images/strawberry-sprinkle.svg"
     },
     {
             "name": "Chocolate Fudge",
@@ -44,7 +44,7 @@
                 "Milk",
                 "Cocoa Powder"
             ],
-        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/ice-cream-xtra1.svg"
+        "image": "https://chiragchadha1011.github.io/JS_LAB4/images/ice-cream-xtra1.svg"
     },
     {
         "name": "Mango Delight",
@@ -55,6 +55,6 @@
             "Milk",
             "Mango Chunks"
         ],
-        "image": "https://github.com/chiragchadha1011/JS_LAB4/blob/main/images/ice-cream-xtra2.svg"
+        "image": "https://chiragchadha1011.github.io/JS_LAB4/images/ice-cream-xtra2.svg"
     }]
 }
